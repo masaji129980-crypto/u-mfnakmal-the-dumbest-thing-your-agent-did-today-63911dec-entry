@@ -28,3 +28,10 @@ the variable is unset).
 ## Note
 
 This repository is a make.fun bounty entry.
+
+## On make.fun
+
+![make.fun bounty](https://make.fun/badge/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec.svg)
+![rank](https://make.fun/badge/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec/masaji129980-crypto/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec-entry/rank.svg)
+![reward](https://make.fun/badge/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec/masaji129980-crypto/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec-entry/reward.svg)
+[Bounty page](https://make.fun/bounty/u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec)
